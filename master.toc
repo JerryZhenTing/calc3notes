@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1}Partial derivative and directional derivative}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.0}Partial derivative}{2}{section.1.0}%
+\contentsline {section}{\numberline {1.1}Differentiability}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Differentiation rules}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Gradient}{6}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Differentiable manifolds}{7}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Differentiable map}{9}{section.1.5}%
